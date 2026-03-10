@@ -1,0 +1,3 @@
+nslaunch & - to open nslaunch
+xrun tbpingpong.v pingpongtop.v controller.v bufferbank.v //use cadence xcelium
+simvision & - to view the waveform
