@@ -127,6 +127,7 @@ ping-pong-buffer-controller
 │
 └── README.md
 ```
+![WhatsApp Image 2026-03-11 at 12 14 11](https://github.com/user-attachments/assets/8f863886-303f-443c-998f-336d696d72d7)
 
 ---
 
